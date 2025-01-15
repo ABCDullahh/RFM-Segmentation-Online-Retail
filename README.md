@@ -1,4 +1,6 @@
 # RFM-Segmentation-Online-Retail
+[**Dashboard**](https://public.tableau.com/app/profile/faizal.lutfi/viz/E-CommerceRFMAnalysis_17272585249280/E-CommerceRFM)
+
 ![1_4_0](https://github.com/user-attachments/assets/d2258444-5f67-4496-bfcb-aa52d0c609d2)
 Segment customers into meaningful categories based on these three metrics.
 # RFM Customer Segmentation Analysis
